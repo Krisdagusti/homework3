@@ -1,2 +1,2 @@
 # homework3
-Tugas aplikasi sederhana konversi suhu
+Tugas aplikasi sederhana konversi suhu dan ubah background
